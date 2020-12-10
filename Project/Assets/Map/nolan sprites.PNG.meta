@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 49a025a7730865a4bada0f480d6d04ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3882806198741516612
+    second: nolan sprites_0
+  - first:
+      213: -5915785933258096461
+    second: nolan sprites_1
+  - first:
+      213: -5368118356810381697
+    second: nolan sprites_2
+  - first:
+      213: 7426557107185833228
+    second: nolan sprites_3
+  - first:
+      213: -6147698244833130956
+    second: nolan sprites_4
+  - first:
+      213: 2808194739434201827
+    second: nolan sprites_5
+  - first:
+      213: -1556200786774872069
+    second: nolan sprites_6
+  - first:
+      213: 8555422392554045518
+    second: nolan sprites_7
+  - first:
+      213: 5103606387016450652
+    second: nolan sprites_8
+  - first:
+      213: 4030122100051386001
+    second: nolan sprites_9
+  - first:
+      213: -8366408294917435195
+    second: nolan sprites_10
+  - first:
+      213: 5820990880153258467
+    second: nolan sprites_11
+  - first:
+      213: -5499650260606872219
+    second: nolan sprites_12
+  - first:
+      213: 3052569365368476597
+    second: nolan sprites_13
+  - first:
+      213: -6941757245194803953
+    second: nolan sprites_14
+  - first:
+      213: 3100143752034954731
+    second: nolan sprites_15
+  - first:
+      213: -4601438635209366694
+    second: nolan sprites_16
+  - first:
+      213: 1475239088227068279
+    second: nolan sprites_17
+  - first:
+      213: 8857646558767234720
+    second: nolan sprites_18
+  - first:
+      213: -847150064875397912
+    second: nolan sprites_19
+  - first:
+      213: -3266831253593002334
+    second: nolan sprites_20
+  - first:
+      213: 4012779822352911456
+    second: nolan sprites_21
+  - first:
+      213: -8447410547802030439
+    second: nolan sprites_22
+  - first:
+      213: -1459557854925477237
+    second: nolan sprites_23
+  - first:
+      213: 534294810780914148
+    second: nolan sprites_24
+  - first:
+      213: 5558616049136846998
+    second: nolan sprites_25
+  - first:
+      213: -5546175676346471378
+    second: nolan sprites_26
+  - first:
+      213: -2882418186920176989
+    second: nolan sprites_27
+  - first:
+      213: -2964930803223935135
+    second: nolan sprites_28
+  - first:
+      213: 422827559349545576
+    second: nolan sprites_29
+  - first:
+      213: 1556655128293371034
+    second: nolan sprites_30
+  - first:
+      213: 9070063788834966644
+    second: nolan sprites_31
+  - first:
+      213: 7669219487301914857
+    second: nolan sprites_32
+  - first:
+      213: -3724631110183300344
+    second: nolan sprites_33
+  - first:
+      213: -7195150799173774948
+    second: nolan sprites_34
+  - first:
+      213: -1336022361523774349
+    second: nolan sprites_35
+  - first:
+      213: -575827271491637087
+    second: nolan sprites_36
+  - first:
+      213: -8391748792671264704
+    second: nolan sprites_37
+  - first:
+      213: -5563008796975724532
+    second: nolan sprites_38
+  - first:
+      213: -8414686649775940462
+    second: nolan sprites_39
+  - first:
+      213: 4192195644055428550
+    second: nolan sprites_40
+  - first:
+      213: 7239680815362183955
+    second: nolan sprites_41
+  - first:
+      213: 9054346126022998605
+    second: nolan sprites_42
+  - first:
+      213: -4065444596730982788
+    second: nolan sprites_43
+  - first:
+      213: -8762429891689158597
+    second: nolan sprites_44
+  - first:
+      213: 2494604954988963341
+    second: nolan sprites_45
+  - first:
+      213: 2348489243420994607
+    second: nolan sprites_46
+  - first:
+      213: -3002312255500229035
+    second: nolan sprites_47
+  - first:
+      213: -8482755240704911411
+    second: nolan sprites_48
+  - first:
+      213: -7332213314902547449
+    second: nolan sprites_49
+  - first:
+      213: 8737389937645942444
+    second: nolan sprites_50
+  - first:
+      213: 1652998707847553629
+    second: nolan sprites_51
+  - first:
+      213: -8205040775634994376
+    second: nolan sprites_52
+  - first:
+      213: 4725354297024431930
+    second: nolan sprites_53
+  - first:
+      213: 3367209439837174440
+    second: nolan sprites_54
+  - first:
+      213: -4557330686501758403
+    second: nolan sprites_55
+  - first:
+      213: 6666250392582240188
+    second: nolan sprites_56
+  - first:
+      213: 3247040067421901945
+    second: nolan sprites_57
+  - first:
+      213: 4436197777773749259
+    second: nolan sprites_58
+  - first:
+      213: 2157628426735526275
+    second: nolan sprites_59
+  - first:
+      213: 1187556656000909004
+    second: nolan sprites_60
+  - first:
+      213: -2866134289948904053
+    second: nolan sprites_61
+  - first:
+      213: -6529455346847636769
+    second: nolan sprites_62
+  - first:
+      213: -7931054331129414066
+    second: nolan sprites_63
+  - first:
+      213: 8390751371064437742
+    second: nolan sprites_64
+  - first:
+      213: 7192177682472254882
+    second: nolan sprites_65
+  - first:
+      213: -7436522640811546358
+    second: nolan sprites_66
+  - first:
+      213: -4325707764494005062
+    second: nolan sprites_67
+  - first:
+      213: 7541767887573955899
+    second: nolan sprites_68
+  - first:
+      213: 3266031927728874036
+    second: nolan sprites_69
+  - first:
+      213: -4410047129655712259
+    second: nolan sprites_70
+  - first:
+      213: -2976925264335095162
+    second: nolan sprites_71
+  - first:
+      213: 2297005155700003823
+    second: nolan sprites_72
+  - first:
+      213: 6366304896666998104
+    second: nolan sprites_73
+  - first:
+      213: -3340892242770987599
+    second: nolan sprites_74
+  - first:
+      213: -2801959320030141470
+    second: nolan sprites_75
+  - first:
+      213: 124241878153308231
+    second: nolan sprites_76
+  - first:
+      213: 4245653408842740035
+    second: nolan sprites_77
+  - first:
+      213: -4920113080121817061
+    second: nolan sprites_78
+  - first:
+      213: -4252297082612040596
+    second: nolan sprites_79
+  - first:
+      213: 5324431858185173800
+    second: nolan sprites_80
+  - first:
+      213: 1994310579609649959
+    second: nolan sprites_81
+  - first:
+      213: -967899750457502794
+    second: nolan sprites_82
+  - first:
+      213: -3997301743485626185
+    second: nolan sprites_83
+  - first:
+      213: 7773958387113411504
+    second: nolan sprites_84
+  - first:
+      213: -7388076794570851237
+    second: nolan sprites_85
+  - first:
+      213: -6505867799950398840
+    second: nolan sprites_86
+  - first:
+      213: 7812762252308787992
+    second: nolan sprites_87
+  - first:
+      213: -3658489082160747719
+    second: nolan sprites_88
+  - first:
+      213: -8172269972344915608
+    second: nolan sprites_89
+  - first:
+      213: -1575691521930966999
+    second: nolan sprites_90
+  - first:
+      213: 1004394366740699894
+    second: nolan sprites_91
+  - first:
+      213: 4002915913591718324
+    second: nolan sprites_92
+  - first:
+      213: 3319257534652782971
+    second: nolan sprites_93
+  - first:
+      213: -7524732546560565520
+    second: nolan sprites_94
+  - first:
+      213: 8717637175899278047
+    second: nolan sprites_95
+  - first:
+      213: -2799253995615861122
+    second: nolan sprites_96
+  - first:
+      213: 8814732806570677687
+    second: nolan sprites_97
+  - first:
+      213: 3483450219077949931
+    second: nolan sprites_98
+  - first:
+      213: -5924242206168363030
+    second: nolan sprites_99
+  - first:
+      213: 4748341586846050574
+    second: nolan sprites_100
+  - first:
+      213: 3609509436525186944
+    second: nolan sprites_101
+  - first:
+      213: -608834683545400696
+    second: nolan sprites_102
+  - first:
+      213: -3046304153727120304
+    second: nolan sprites_103
+  - first:
+      213: -675979242510906927
+    second: nolan sprites_104
+  - first:
+      213: 4926162218617759646
+    second: nolan sprites_105
+  - first:
+      213: -9123877099579433294
+    second: nolan sprites_106
+  - first:
+      213: 4439463399364948871
+    second: nolan sprites_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nolan sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4414caf6aaf72e530800000000000000
+      internalID: 3882806198741516612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 681
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b006e07908e6eda0800000000000000
+      internalID: -5915785933258096461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 681
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f764016cbcc9085b0800000000000000
+      internalID: -5368118356810381697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d6f5675e601760800000000000000
+      internalID: 7426557107185833228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 581
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436cd6aa40dfeaaa0800000000000000
+      internalID: -6147698244833130956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 581
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a810bc36b8f620800000000000000
+      internalID: 2808194739434201827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffa91921a3476ae0800000000000000
+      internalID: -1556200786774872069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 481
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e404b936657fab670800000000000000
+      internalID: 8555422392554045518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 481
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c78b08f6a3d640800000000000000
+      internalID: 5103606387016450652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e930f82bedde730800000000000000
+      internalID: 4030122100051386001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 381
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0909f9bfb84eb80800000000000000
+      internalID: -8366408294917435195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 381
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9c2545d5058c050800000000000000
+      internalID: 5820990880153258467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56594a3f9315da3b0800000000000000
+      internalID: -5499650260606872219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 281
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b317032aa7ec5a20800000000000000
+      internalID: 3052569365368476597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 281
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f056b23809ce9af90800000000000000
+      internalID: -6941757245194803953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda0b4315ce50b20800000000000000
+      internalID: 3100143752034954731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 181
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a536694d0f76420c0800000000000000
+      internalID: -4601438635209366694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 181
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779ab84722a197410800000000000000
+      internalID: 1475239088227068279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae38498d9eacea70800000000000000
+      internalID: 8857646558767234720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec17af11815e34f0800000000000000
+      internalID: -847150064875397912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 80
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee1748842e9a2d0800000000000000
+      internalID: -3266831253593002334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4331ecf140b730800000000000000
+      internalID: 4012779822352911456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e3f52fcd4c4ca80800000000000000
+      internalID: -8447410547802030439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nolan sprites_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a29003ddb9ebbe0800000000000000
+      internalID: -1459557854925477237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
