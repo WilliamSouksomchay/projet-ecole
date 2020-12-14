@@ -53,7 +53,7 @@
     <UnityVersion>2020.1.13f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\Pnj.cs" />
+    <Compile Include="Assets\script\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -673,6 +673,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="InControl.Examples.csproj">
+      <Project>{6F0EB52E-06F8-0991-D36F-B5D96CEFEBF8}</Project>
+      <Name>InControl.Examples</Name>
+    </ProjectReference>
+    <ProjectReference Include="InControl.csproj">
+      <Project>{79ADD8F3-70A8-401D-56E2-A2DABB9FF402}</Project>
+      <Name>InControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="InControl.Editor.csproj">
+      <Project>{ADF64CCE-4098-9D97-B57B-3D20D1412A6B}</Project>
+      <Name>InControl.Editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
