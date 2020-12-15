@@ -53,11 +53,11 @@
     <UnityVersion>2020.1.13f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\playerMovement.cs" />
-    <Compile Include="Assets\script\healthbarre.cs" />
+    <Compile Include="Assets\script\Player\playerMovement.cs" />
+    <Compile Include="Assets\script\Player\healthbarre.cs" />
     <Compile Include="Assets\script\pnj\pnjMove.cs" />
     <Compile Include="Assets\script\Monster\MonsterMove.cs" />
-    <Compile Include="Assets\script\PlayerHealth.cs" />
+    <Compile Include="Assets\script\Player\PlayerHealth.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
