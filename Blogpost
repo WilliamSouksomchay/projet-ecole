@@ -1,0 +1,24 @@
+Introduction :
+J'avais pour but de faire un gros jeu
+mais faute de temps et de reussite j'ai du faire un jeu beaucoup de changement pour le simplifier. 
+
+Le jeu :
+C'est un action RPG a la zelda (comme le 1 le 3 etc...) pour raccourcir un maximum le jeu. 
+Il suffit de tuer les 3 gluant de la foret au nord du village. 
+
+Un enfer :
+Ne pas aller au bout de ces objectifs est une horreur, surtout quand c'est des objectifs simple a faire
+mais plus je corrigé mes fautes, plus j'en rajouté un vrais cercle vicieux qui a eu raison de moi
+
+Ce que j'ai appris :
+Malgré tout j'ai pu que apprendre de ce projet vue que je parter de 0.
+J'ai beaucoup appris sur Unity bien que je sais que j'ai encore beaucoup a apprendre
+
+Implémentation :
+Deplacement du personnage sur les 2 axes
+Faire disparaître l'ennemie des qu'il est mort
+Une barre de vie avec les dégâts
+
+Conclusions :
+Projet non fini qui donne beaucoup de frustration bien que par moment c'etais amusant 
+J'ai beaucoup appris malgré tout
